@@ -127,9 +127,9 @@ This project includes *sales forecasting* to predict future sales trends using *
 
 ### 1. Clone the Repository  
 Clone this repository using:  
-bash  
-git clone https://github.com/ArpiCodes/superstore-sales-dashboard.git  
-  
+```bash  
+git clone https://github.com/ArpiCodes/superstore-sales-Performance-Dashboard.git  
+```  
 
 ### 2. Open in Power BI  
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).  
@@ -139,9 +139,9 @@ git clone https://github.com/ArpiCodes/superstore-sales-dashboard.git
 ### 3. Access Forecasting Models  
 1. Open the **Sales Forecasting Using Time Series Models.ipynb** file in Jupyter Notebook.  
 2. Install dependencies using:  
-   bash  
-   pip install -r requirements.txt  
-     
+  ```bash
+   pip install -r requirements.txt
+  ```
 3. Run the notebook to explore and visualize forecasts.  
 
 ---
